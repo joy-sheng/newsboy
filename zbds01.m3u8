@@ -626,3 +626,5 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 #EXTINF:-1,彩虹台 [18+]
 http://45.89.104.154:8898/gaoying336.php?id=950
+#EXTINF:-1,彩虹台测试
+https://youtu.be/2dfAzcDf8Zg
