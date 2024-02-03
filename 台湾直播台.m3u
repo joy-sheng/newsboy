@@ -23,3 +23,13 @@ http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 #EXTINF:-1 ,东森财经
 http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
