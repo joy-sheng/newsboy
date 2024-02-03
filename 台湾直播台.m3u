@@ -7,3 +7,19 @@ https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab831
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 ,东森新闻
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 ,东森新闻
+http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1014
+#EXTINF:-1 ,东森新闻
+http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+#EXTINF:-1 ,东森新闻
+https://epg.pw/stream/7872a236f1393aa913844a130912aa8891f4bbf96841157ed4605778bc0bc62f.m3u8
+#EXTINF:-1 ,东森新闻
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+#EXTINF:-1 ,东森财经
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 ,东森财经
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1 ,东森财经
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 ,东森财经
+http://123.51.230.108:18515/.m3u8
