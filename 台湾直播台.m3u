@@ -23,6 +23,8 @@ http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 #EXTINF:-1 ,东森财经
 http://123.51.230.108:18515/.m3u8
+#EXTINF:-1,民视新闻
+https://4gtvfreemobile-mozai.4gtv.tv/xllxUKKx2L5JnDapmdAY2dYXSyXA_0Bbv9BVLKCvOeI%3d/stream2.m3u8?token=jOnEGQXTW4EbPC_nkEFa7w&expires=1707026511&refer=MGZkMTJlNTMtNmI5My00NDBjLWFmNTItZTM5NjQ2YTg1Nzg2&token1=hP81GnVgTbu24qaGD58N4Q&expires1=1707055311&y=0&vt=
 #EXTINF:-1 ,民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 ,民视新闻
@@ -65,3 +67,7 @@ http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 ,TVBS新闻
 http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1,民视台湾台
+https://4gtvfreemobile-mozai.4gtv.tv/gAfgl0uDahEBh_aDlcBS40Enmmdm9ifckAOjtOCQjm8%3d/stream2.m3u8?token=3WrNqZ6tkX1Iqv_p9ZZ7vA&expires=1707026725&refer=MDQ4ZjJkN2MtY2Y5ZS00YjVmLTlhMzMtMmVlMmZhYWQzYzNi&token1=4EEkGBarfz3ZkUlMzlrurA&expires1=1707055525&y=0&vt=
+#EXTINF:-1,民视第一台
+https://4gtvfreemobile-mozai.4gtv.tv/8amFV8LshRYSPeXtgjjG36nfNkWjNzavXjZ3S6d-WVc%3d/stream2.m3u8?token=_7qNnlN-u0uyYo0S5YjWbw&expires=1707026797&refer=ODA5OWMyYjAtZTA2Ny00YjNkLWE5OWQtODZkYmU5YTEwOTRh&token1=ce7hkycEE3M-iUhepzACEg&expires1=1707055597&y=0&vt=
